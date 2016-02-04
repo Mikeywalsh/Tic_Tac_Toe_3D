@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 52e320e274c498f49bff1c55b06ee91f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - transparentCross: {fileID: 100000, guid: d25a655136cd0e94a9fdd19d4eb91e96, type: 2}
+  - transparentRing: {fileID: 100000, guid: be904b50530475342895da2d801f5e31, type: 2}
+  - cross: {fileID: 100000, guid: 4e0def816f9825f4b806584df096db2b, type: 2}
+  - ring: {fileID: 100000, guid: e671f5dfffc0b5a428d6c5f2d14539d8, type: 2}
+  - redToony: {fileID: 2100000, guid: 9f3aa9075d74f4f4bbef6079ccc80a84, type: 2}
+  - redToonySmall: {instanceID: 0}
+  - redToonySelected: {fileID: 2100000, guid: 8770e3f08f2bcfd499e3a0cb75785625, type: 2}
+  - blueToony: {fileID: 2100000, guid: ae6e84f814d936742b4efd5202fd47b9, type: 2}
+  - blueToonySmall: {instanceID: 0}
+  - blueToonySelected: {fileID: 2100000, guid: e7ed1e4580e087745ba4b13cabcd41ad, type: 2}
+  - hoverSound: {fileID: 8300000, guid: 76a8354a8ca86fd4593cbd991b892277, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
